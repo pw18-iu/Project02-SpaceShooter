@@ -22,7 +22,7 @@ Finally, I add two enemy ships that move along cosine-shaped paths in different 
 ## Implementation
 Created using [Unity 2022.3.45f](https://unity.com)
 
-Assets are provided by [Kenney.nl](https://kenney.nl/assets/space-shooter-extension)(https://kenney.nl/assets/space-shooter-redux), provided under a [CC0 1.0 Public Domain License](https://creativecommons.org/publicdomain/zero/1.0/).
+Assets are provided by [Kenney.nl](https://kenney.nl/assets/space-shooter-extension) and [Kenney.nl](https://kenney.nl/assets/space-shooter-redux), provided under a [CC0 1.0 Public Domain License](https://creativecommons.org/publicdomain/zero/1.0/).
 
 The explosion spritesheet was released into the public domain by [StumpyStrust](https://opengameart.org/content/explosion-sheet)
 
